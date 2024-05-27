@@ -30,6 +30,7 @@ public class DriverManager {
                 System.out.println("The Safari Driver was instated!");
                 break;
         }
+        driver.manage().window().maximize();
     }
 
     // Metoda statica pentru a obtine instanta Singleton
