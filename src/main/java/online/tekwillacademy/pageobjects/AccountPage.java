@@ -1,4 +1,4 @@
 package online.tekwillacademy.pageobjects;
 
-public class ExamplePage {
+public class AccountPage {
 }
